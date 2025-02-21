@@ -6,7 +6,7 @@ A simple implementation of the Perceptron learning algorithm for binary classifi
 
 This repository contains a Python implementation of a **Perceptron**, a type of artificial neuron used for supervised learning of binary classifiers. The model learns by adjusting its synaptic weights based on input data and labels using the **Perceptron learning rule**.
 
-## 🛠 Installation
+## 🔧 Installation
 
 1. Clone the repository:
    ```sh
